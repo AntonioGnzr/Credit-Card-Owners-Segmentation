@@ -4,7 +4,9 @@
 Explore the dataset and identify a possible customer segmentation.
 
 **Dataset Information**
+
 The dataset can be found at the following url: [LINK](https://www.kaggle.com/arjunbhasin2013/ccdata "LINK")
+
 It contains 8950 observations and 18 attributes (including the class attribute)
 
 **Attribute Information:**
